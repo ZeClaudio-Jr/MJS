@@ -29,6 +29,7 @@ for (var persongem of listPerson) {
     console.log(persongem.age)
 }
 
+
 //function apresentar (nome = 'Holanda') {
 //    console.log('O dia está lindo né ' + nome)
 //}
